@@ -31,7 +31,7 @@
 </div>
 
 ### <h3 align="center"> Contacto :e-mail:</h3>
-<p align="center">Email: <a href="mailto:eriherrerait@gmail.com">erika241101@gmail.com</a></p>
+<p align="center">Email: <a href="mailto:eriherrerait@gmail.com">eriherrerait@gmail.com</a></p>
 
 
 <!--
