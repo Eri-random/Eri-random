@@ -9,7 +9,6 @@
 <ul>
 <li>:nerd_face: Estudiante de la Técnicatura en Desarrollo Web en la Universidad Nacional de la Matanza (UNLaM).</li>
 <li>:information_desk_person: Tengo 21 años. Me defino a mi misma como una persona autodidacta, creativa y con una gran motivación.</li>
-<li>:briefcase: Actualmente trabajo en <strong>Virtual Dreams</strong> </li>
 </ul>
 
 <hr></hr>
